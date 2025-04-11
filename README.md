@@ -16,7 +16,7 @@ Proyecto académico enfocado en el diseño de un proceso ELT para estructurar un
 
 Proyecto basado en la encuesta del DANE (2023), cuyo objetivo fue segmentar hogares mediante técnicas de aprendizaje no supervisado, con el fin de identificar patrones asociados a condiciones socioeconómicas.
 
-<iframe title="Segmentacion Clusters" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=92e06172-072a-45ed-a27b-5fcdac4cf110&autoAuth=true&ctid=fabd047c-ff48-492a-8bbb-8f98b9fb9cca" frameborder="0" allowFullScreen="true">
+<iframe title="Segmentacion Clusters" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=92e06172-072a-45ed-a27b-5fcdac4cf110&autoAuth=true&ctid=fabd047c-ff48-492a-8bbb-8f98b9fb9cca" frameborder="0" allowFullScreen="true"><br><br>
 
 ## 🚀 Sobre mi
 
