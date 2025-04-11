@@ -10,10 +10,7 @@ A continuación, encontrarás una selección de reportes que en lo qu he partici
 Proyecto académico enfocado en el diseño de un proceso ELT para estructurar un modelo de datos orientado a la gestión de información de una EPS.
 
 </iframe>
-<iframe title="Proyecto RaSa Final Grupo 13" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=b3a47c9f-b377-4b02-bdf8-a3daa035fc70&autoAuth=true&ctid=fabd047c-ff48-492a-8bbb-8f98b9fb9cca" frameborder="0" allowFullScreen="true"></iframe>
-
-
-
+<iframe title="Proyecto RaSa Final Grupo 13" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=b3a47c9f-b377-4b02-bdf8-a3daa035fc70&autoAuth=true&ctid=fabd047c-ff48-492a-8bbb-8f98b9fb9cca" frameborder="0" allowFullScreen="true"></iframe><br>
 
 2. Segmentación Hogares Encuesta Medición de Pobreza Monetaria y Desigualdad 2023
 
