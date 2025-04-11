@@ -8,6 +8,8 @@ A continuación, encontrarás una selección de reportes que en lo qu he partici
 
 <iframe title="Segmentacion Clusters" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=92e06172-072a-45ed-a27b-5fcdac4cf110&autoAuth=true&ctid=fabd047c-ff48-492a-8bbb-8f98b9fb9cca" frameborder="0" allowFullScreen="true">
 
+
+
 [Planes de Beneficios](https://app.powerbi.com/groups/5fbb4161-b3af-40d8-92cc-734602254760/reports/b3a47c9f-b377-4b02-bdf8-a3daa035fc70/ReportSection?redirectedFromSignup=1&experience=power-bi)
 
 </iframe>
