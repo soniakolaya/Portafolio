@@ -14,7 +14,8 @@ Proyecto académico enfocado en el diseño de un proceso ELT para estructurar un
 
 
 
-2.Segmentación Hogares Encuesta Medición de Pobreza Monetaria y Desigualdad 2023
+
+2. Segmentación Hogares Encuesta Medición de Pobreza Monetaria y Desigualdad 2023
 
 Proyecto basado en la encuesta del DANE (2023), cuyo objetivo fue segmentar hogares mediante técnicas de aprendizaje no supervisado, con el fin de identificar patrones asociados a condiciones socioeconómicas.
 
