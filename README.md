@@ -1,7 +1,7 @@
 
 # 💼📊 Portafolio de reportes
 
-A continuación, encontrarás una selección de reportes que en lo qu he participado para su desarrollo. Estos  me han permitido aplicar mis habilidades en extracción, visualización y análisis de datos.
+A continuación, encontrarás una selección de reportes que en lo que he participado en su desarrollo. Estos  me han permitido aplicar mis habilidades en extracción, visualización y análisis de datos.
 
 ### Power BI
 
